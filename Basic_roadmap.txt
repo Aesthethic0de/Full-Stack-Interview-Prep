@@ -1,0 +1,10 @@
+1. Basic Maths
+2. Probability and Statistics
+3. ML classical algorithms
+4. Deep learning concepts
+5. NLP
+6. SQL
+7. Python DSA
+8. Interview question / answers
+9. Resume builder
+10. current latest trend in AI

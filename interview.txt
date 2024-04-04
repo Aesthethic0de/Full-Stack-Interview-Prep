@@ -1,0 +1,27 @@
+Topics you need to study to learn Low Level Design:
+
+1) Basic OOPS Principles
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+
+2) SOLID Principles
+- Single Responsibility
+- Open-Closed
+- Liskov Substitution
+- Interface Segregation
+- Dependency Inversion
+
+3) DRY, YAGNI & KISS Principle
+
+4) Design Patterns
+- Creational: Singleton, Factory Method, Abstract Factory, Builder
+- Structural: Decorator, Facade, Adapter, Composite
+- Behavioral: Iterator, Observer, Command, Strategy, State
+
+5) UML Diagrams
+- Use Case Diagrams
+- Activity Diagrams
+- Class Diagrams
+- Sequence Diagrams
